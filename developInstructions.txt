@@ -3,3 +3,5 @@ En este fichero se indica la metodología de programación:
 1. Todos los ficheros .js tienen que llamarse git-X.js.
 
 2. Las variables tienen que empezar con un g (const gNum = 2);
+
+04/01/2021 -> bugs solucionados.

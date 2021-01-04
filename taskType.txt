@@ -1,0 +1,7 @@
+Alberto -> se encarga del servico.
+
+Jorge -> se encarga de la vista.
+
+David -> se encarga del controlador.
+
+Nuevo integrante: Javier -> es el coordinador y diseñador del proyecto.

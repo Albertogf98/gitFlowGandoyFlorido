@@ -3,5 +3,5 @@ class Service {
 
     }
 
-    getAlert = value => alert(value);
+    getAlert = value => value;
 }
